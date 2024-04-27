@@ -1,5 +1,5 @@
 //nombre: Ignacio Sannazzaro
-//tp2
+//tp1
 //legajo: 94034/5
 
 PImage imagen;
